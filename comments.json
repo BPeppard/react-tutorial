@@ -6,5 +6,21 @@
     {
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "author": "Brian",
+        "text": "Hello World!"
+    },
+    {
+        "author": "Not Brian",
+        "text": "Goodbye World!"
+    },
+    {
+        "author": "You",
+        "text": "I didn't write this!"
+    },
+    {
+        "author": "John Doe",
+        "text": "You can't catch me"
     }
 ]
